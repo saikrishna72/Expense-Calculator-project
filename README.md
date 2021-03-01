@@ -5,13 +5,14 @@ Expense calculator
 
 
 
-Project Name  : Budget Calculator
+Project Name  : Expenses Calculator
 
 Technologies  : Python
 
 Version       :  3.7.0
 
 Installations : https://www.python.org/downloads/
+
 Datastructure : Dictionary
 
 These are the Inputs we need From the user:
